@@ -1,0 +1,8 @@
+
+# minceraftの中で　『？/functin stater_kit』と入力すると、以下のコマンドを実行！
+give @p[=1] minecraft:iron_helmet
+give @p[r=1] minceraft:iron_chestplate
+give @p[r=1] minceraft:iron_leggings
+give @p[r=1] minceraft:iron_boots 1 96
+give @p[r=1] minceraft:bread 5
+give @p[r=1] minceraft:potion 3 21
